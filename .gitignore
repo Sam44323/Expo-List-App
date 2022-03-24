@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.gpg
+..gpg
 
 # macOS
 .DS_Store
